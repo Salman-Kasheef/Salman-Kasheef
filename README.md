@@ -1,9 +1,4 @@
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Salman-Kasheef&style=flat-square&color=blue" alt=""/>
-
-<h1>
   👋 Hi, I’m @Salman-Kasheef
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -57,8 +52,12 @@ I am a Sofware Engineer from India.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Kasheef&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salman-Kasheef&theme=dark)](https://git.io/streak-stats)
 <h2>
   :zap: My Recent Activity :
 </h2>
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Salman-Kasheef&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Salman-Kasheef&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
